@@ -4,9 +4,9 @@
     </a>
 </h2>
 <p align="center">
-    <img src="112.png" alt="DaiNam University Logo" width="200"/>
-    <img src="113.png" alt="DaiNam University Logo" width="200"/>
-    <img src="114.png" alt="DaiNam University Logo" width="200"/>
+    <img src="112.jpg" alt="DaiNam University Logo" width="200"/>
+    <img src="113.jpg" alt="DaiNam University Logo" width="200"/>
+    <img src="114.jpg" alt="DaiNam University Logo" width="200"/>
 </p>
 Giới thiệu về Chữ Ký Số (Digital Signature)
 ✅ 1. Chữ ký số là gì?
